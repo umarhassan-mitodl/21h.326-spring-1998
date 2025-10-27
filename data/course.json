@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "1998",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "b436adec-2c89-dc6a-ac74-e6cde18d4956",
+  "instructors": {
+    "content": [
+      "1c5684a0-0660-69a8-c567-f5918f5cb3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "189495ae-2704-0afd-441a-f5c33fd138d4",
+    "website": "21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998"
+  },
+  "course_title": "The Making of Russia in the Worlds of Byzantium, Mongolia, and Europe",
+  "course_description": "Medieval and early modern Russia stood at the crossroads of Europe and Asia. In this course we will examine some of the native developments and foreign influences which most affected the course of Russian history. Particular topics include the rise of the Kievan State, the Mongol Yoke, the rise of Muscovy, Ivan the Terrible, Peter the Great, relations with Western Europe. How did foreigners perceive Russia? How did those living in the Russian lands perceive foreigners? What social relations were developing between nobility and peasantry, town and country, women and men? What were the relations of each of these groups to the state? How did state formation come about in Kievan and Muscovite Russia? What were the political, religious, economic, and social factors affecting relations between state and society? In examining these questions we will consider a variety of sources including contemporary accounts (both domestic and foreign), legal and political documents, historical monographs and interpretive essays.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.326",
+  "course_image_thumbnail": {
+    "content": "0e22b72a-5266-1d6e-b800-29d6adae3402",
+    "website": "21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "113315cc-63dd-4a14-affc-b0f3d5737c00",
+  "site_short_id": "21h.326-spring-1998",
+  "site_url_path": "courses/21h-326-the-making-of-russia-in-the-worlds-of-byzantium-mongolia-and-europe-spring-1998",
+  "title": "Course Metadata"
+}
